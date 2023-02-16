@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-hhhhhhhhh
-=======
-ffffffff
->>>>>>> Stashed changes
+hhhhhh
